@@ -10,6 +10,7 @@
     <Title>NugetPublishExample</Title>
     <PackageVersion>1.0.2</PackageVersion>
     <Version>1.0.2</Version>
+    <LicenseUrl>https://github.com/jakecoffman/NugetPublishExample</LicenseUrl>
     <ProjectUrl>https://github.com/jakecoffman/NugetPublishExample</ProjectUrl>
     <RepositoryUrl>https://github.com/jakecoffman/NugetPublishExample</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
