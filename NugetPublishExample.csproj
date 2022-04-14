@@ -8,10 +8,10 @@
     <Authors>Jake Coffman</Authors>
     <Owners>jakecoffman</Owners>
     <Title>NugetPublishExample</Title>
-    <PackageVersion>1.0.3</PackageVersion>
-    <Version>1.0.3</Version>
-    <LicenseUrl>https://github.com/jakecoffman/NugetPublishExample</LicenseUrl>
-    <ProjectUrl>https://github.com/jakecoffman/NugetPublishExample</ProjectUrl>
+    <PackageVersion>1.0.4</PackageVersion>
+    <Version>1.0.4</Version>
+    <PackageLicenseUrl>https://github.com/jakecoffman/NugetPublishExample</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/jakecoffman/NugetPublishExample</PackageProjectUrl>
     <RepositoryUrl>https://github.com/jakecoffman/NugetPublishExample</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
   </PropertyGroup>
