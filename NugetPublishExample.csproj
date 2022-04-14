@@ -8,8 +8,9 @@
     <Authors>Jake Coffman</Authors>
     <Owners>jakecoffman</Owners>
     <Title>NugetPublishExample</Title>
-    <PackageVersion>1.0.1</PackageVersion>
-    <Version>1.0.1</Version>
+    <PackageVersion>1.0.2</PackageVersion>
+    <Version>1.0.2</Version>
+    <ProjectUrl>https://github.com/jakecoffman/NugetPublishExample</ProjectUrl>
     <RepositoryUrl>https://github.com/jakecoffman/NugetPublishExample</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
   </PropertyGroup>
